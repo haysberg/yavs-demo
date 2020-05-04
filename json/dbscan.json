@@ -1,0 +1,1 @@
+["http:\/\/testphp.vulnweb.com\/artists.php?artist=1","[+] The number of available databases [2]:","[+] Database names:","[*] acuart","[*] information_schema","[+] The back-end DBMS: MySQL >= 5.0.12","[+] The back-end DBMS operating system: Linux Ubuntu","YOUR MySQL DATABASE CONTAINS THE FOLLOWING VULNERABILITIES",""]
